@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "ifsgen"
+version = "0.1.0"
+description = "generative iterated function systems"
+authors = ["Hart Traveller <24962209+harttraveller@users.noreply.github.com>"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
