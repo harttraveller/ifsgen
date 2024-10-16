@@ -1,7 +1,12 @@
 import plotly.graph_objects as go
 
+# dark_black
 
-template = dict(
+# dark_transparent
+
+# dark_minimal_black
+
+dark_minimal_transparent = dict(
     layout=go.Layout(
         {
             "annotationdefaults": {
