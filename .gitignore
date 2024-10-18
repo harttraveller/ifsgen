@@ -2,6 +2,9 @@ local
 poetry.lock
 poetry.toml
 .DS_Store
+script/image
+script/video
+script/data
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
