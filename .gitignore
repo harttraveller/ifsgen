@@ -5,6 +5,7 @@ poetry.toml
 script/image
 script/video
 script/data
+notebook/img
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
