@@ -14,6 +14,7 @@ plotly = "^5.24.1"
 pydantic = "^2.9.2"
 tqdm = "^4.66.5"
 nbformat = "^5.10.4"
+ipywidgets = "^8.1.5"
 
 
 [build-system]
